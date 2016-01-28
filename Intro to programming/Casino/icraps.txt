@@ -1,0 +1,16 @@
+***********
+*  Craps  *
+***********
+One of the most "fair" games to play at a casino is Craps
+Here is one version of how to play:
+
+1) Roll a pair of fair six-sided dice
+2) If you roll a 7 or 11, you win!
+3) If you roll a 2, 3, or 12, you lose
+4) Otherwise, record what you've rolled, Let this sum be k; also known as your 
+point
+5) If you rolled a point, continue rolling the pair of dice until you get either your point (k) or a sum of seven on the two dice
+6) If k comes up first, you win!
+7) If 7 comes up first, you lose.
+
+

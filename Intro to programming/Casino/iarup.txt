@@ -1,0 +1,16 @@
+*************************
+*  Arup's Game of Dice  *
+*************************
+Amazingly, this game is even more "fair" than Craps, but the house still has a 
+50,2% chance of winning, which is why the casino hasn't gone broke yet! 
+Here are the rules:
+
+1) Roll a pair of dice
+2) If you roll a sum of 11 or 12, you win
+3) If you roll a sum of 2, you lose
+4) Otherwise, record what you've rolled, Let this sum be k; also known as your 
+point
+5) Roll one more time, If this roll exceeds your point(k), you win!
+6) If this roll is the same as your point(k) or lower, you lose.
+
+
